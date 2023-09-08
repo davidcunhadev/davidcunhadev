@@ -10,11 +10,9 @@
 
 - 📫 Meu contato para email: **davidl1199@hotmail.com**
   
-- 🔗 Conecte-se comigo no LinkedIn! <a target='_blank' href="https://www.linkedin.com/in/davidlcunha/">
+- 🔗 Conecte-se comigo no LinkedIn!   <a target='_blank' href="https://www.linkedin.com/in/davidlcunha/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<br>
 
 <div>
 <h3>Tecnologias e Ferramentas:</h3>
@@ -71,8 +69,5 @@
 <div>
     <a href='https://github.com/davidcunhadev'>
     <img align='center' height='165em' src='https://github-readme-stats-davidcunhadev.vercel.app/api?username=davidcunhadev&theme=transparent&text_color=adbac7&title_color=ffffff'>
-  </a>
-    <a href='https://github.com/davidcunhadev'>
-    <img align='center' height='165em' src='https://github-readme-stats-davidcunhadev.vercel.app/api/top-langs/?username=davidcunhadev&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff'>
   </a>
 </div>
