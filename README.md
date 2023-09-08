@@ -39,7 +39,7 @@
               </td>
               <td width="80px" align="center">
                   <span><strong>TypeScript</strong></span><br>
-                  <img height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+                  <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
               </td>
           </tr>
           <tr valign="top">
@@ -66,4 +66,13 @@
           </tr>
       </tbody>
   </table>
+</div>
+
+<div>
+    <a href='https://github.com/davidcunhadev'>
+    <img align='center' height='165em' src='https://github-readme-stats-davidcunhadev.vercel.app/api?username=davidcunhadev&theme=transparent&text_color=adbac7&title_color=ffffff'>
+  </a>
+    <a href='https://github.com/davidcunhadev'>
+    <img align='center' height='165em' src='https://github-readme-stats-davidcunhadev.vercel.app/api/top-langs/?username=davidcunhadev&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff'>
+  </a>
 </div>
