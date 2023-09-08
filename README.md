@@ -68,9 +68,9 @@
 
 <div>
     <a href='https://github.com/davidcunhadev'>
-    <img align='center' height='165em' src='https://github-readme-stats-davidcunhadev.vercel.app/api?username=davidcunhadev&theme=transparent&text_color=adbac7&title_color=ffffff'>
+    <img align='center' height='165em' src='https://github-readme-stats.vercel.app/api?username=davidcunhadev&theme=transparent&text_color=adbac7&title_color=ffffff'>
     </a>
     <a href='https://github.com/davidcunhadev'>
-    <img align='center' height='165em' src='https://github-readme-stats-davidcunhadev.vercel.app/api/top-langs/?username=davidcunhadev&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff'>
+    <img align='center' height='165em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=davidcunhadev&layout=compact&theme=transparent&text_color=adbac7&title_color=ffffff'>
     </a>
 </div>
