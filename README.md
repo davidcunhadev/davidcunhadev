@@ -1,11 +1,60 @@
-<h1 align="center">Hi 👋, I'm David Luis da Cunha</h1>
-<h3 align="center">A passionate Web Developer from Brazil.</h3>
+## Sobre mim 👋
+<h1 align="center">Olá! Me chamo David Luís da Cunha.</h1>
+<h1 align="center">Sou de Guabiruba, Santa Catarina.</h1>
+<h1 align="center">Estou estudando Desenvolvimento Web na Trybe.</h1>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 Atualmente estudo com foco em **Backend**
 
-- 📫 You can reach me at **davidl1199@hotmail.com**
+- 📫 Meu contato para email: **davidl1199@hotmail.com**
+  
+- 🔗 Conecte-se comigo no LinkedIn! [https://www.linkedin.com/in/davidlcunha/](https://www.linkedin.com/in/davidlcunha/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/davidlcunha/](https://www.linkedin.com/in/davidlcunha/)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Tecnologias e Ferramentas:</h3>
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>HTML</strong></span><br>
+                <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>CSS</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Javascript</strong></span><br>
+                <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>React</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>TypeScript</strong></span><br>
+                <img height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span><strong>RTL</strong></span><br>
+                <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Redux</strong></span><br>
+                <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>git</strong></span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>GitHub</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+            <td width="80px" align="center">
+                <span><strong>Docker</strong></span><br>
+                <img height="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
