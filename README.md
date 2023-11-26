@@ -42,25 +42,47 @@
           </tr>
           <tr valign="top">
               <td width="80px" align="center">
-                  <span><strong>RTL</strong></span><br>
-                  <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-              </td>
-              <td width="80px" align="center">
                   <span><strong>Redux</strong></span><br>
                   <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
               </td>
               <td width="80px" align="center">
-                  <span><strong>git</strong></span><br>
-                  <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+                  <span><strong>RTL</strong></span><br>
+                  <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+              </td>
+              <td width="80px" align="center">
+              <span><strong>Jest</strong></span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
               </td>
               <td width="80px" align="center">
                   <span><strong>GitHub</strong></span><br>
                   <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
               </td>
               <td width="80px" align="center">
+                  <span><strong>git</strong></span><br>
+                  <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+              </td>
+          </tr>
+          <tr valign="top">
+             <td width="80px" align="center">
+               <span><strong>Node</strong></span><br>
+               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+             </td>
+             <td width="80px" align="center">
+               <span><strong>Express</strong></span><br>
+               <img height="32px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+             </td>
+             <td width="80px" align="center">
                   <span><strong>Docker</strong></span><br>
                   <img height="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
-              </td>
+             </td>
+             <td width="80px" align="center">
+               <span><strong>MySQL</strong></span><br>
+               <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+             </td>
+             <td width="80px" align="center">
+              <span><strong>Sequelize</strong></span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+             </td>
           </tr>
       </tbody>
   </table>
