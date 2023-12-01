@@ -6,7 +6,7 @@
   <li>Estou estudando Desenvolvimento Web na Trybe.</li>
 </ul>
 
-- 🌱 Atualmente estudo com foco em **Backend**.
+- 🌱 Atualmente estudo com foco em **Full-Stack**.
 
 - 📫 Meu contato para email: **davidl1199@hotmail.com**
   
