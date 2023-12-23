@@ -6,7 +6,7 @@
   <li>Estou estudando Desenvolvimento Web na Trybe.</li>
 </ul>
 
-- 🌱 Atualmente estudo com foco em **Full-Stack**.
+- 🌱 Atualmente estudo com foco em **Ciência da Computação (Python)**.
 
 <br>
 
