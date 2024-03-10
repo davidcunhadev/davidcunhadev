@@ -3,10 +3,10 @@
 <ul>
   <li>Olá! Me chamo David Luís da Cunha.</li>
   <li>Sou de Guabiruba, Santa Catarina.</li>
-  <li>Estou estudando Desenvolvimento Web na Trybe.</li>
+  <li>Desenvolvedor Web Full Stack.</li>
 </ul>
 
-- 🌱 Atualmente estudo com foco em **Ciência da Computação (Python)**.
+- 🌱 Atualmente estudo com foco em **Python**.
 
 <br>
 
@@ -36,8 +36,8 @@
                   <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
               </td>
               <td width="80px" align="center">
-                  <span><strong>React</strong></span><br>
-                  <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+                  <span><strong>Python</strong></span><br>
+                  <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
               </td>
               <td width="80px" align="center">
                   <span><strong>TypeScript</strong></span><br>
@@ -46,9 +46,27 @@
           </tr>
           <tr valign="top">
               <td width="80px" align="center">
+                  <span><strong>React</strong></span><br>
+                  <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+              </td>
+              <td width="80px" align="center">
+                  <span><strong>NextJS</strong></span><br>
+                  <img height="32px" src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg">
+              </td>
+              <td width="80px" align="center">
+                  <span><strong>Tailwind</strong></span><br>
+                  <img height="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+              </td>
+              <td width="80px" align="center">
                   <span><strong>Redux</strong></span><br>
                   <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
               </td>
+              <td width="80px" align="center">
+                  <span><strong>Figma</strong></span><br>
+                  <img height="32" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+              </td>
+          </tr>
+          <tr valign="top">
               <td width="80px" align="center">
                   <span><strong>RTL</strong></span><br>
                   <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
@@ -64,6 +82,10 @@
               <td width="80px" align="center">
                   <span><strong>git</strong></span><br>
                   <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+              </td>
+              <td width="80px" align="center">
+                  <span><strong>NPM</strong></span><br>
+                  <img height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
               </td>
           </tr>
           <tr valign="top">
@@ -81,11 +103,21 @@
              </td>
              <td width="80px" align="center">
                <span><strong>MySQL</strong></span><br>
-               <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+               <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
              </td>
+             <td width="80px" align="center">
+                  <span><strong>MongoDB</strong></span><br>
+                  <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+             </td>
+          </tr>
+          <tr valign="top">
              <td width="80px" align="center">
               <span><strong>Sequelize</strong></span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+             </td>
+             <td width="80px" align="center">
+              <span><strong>Prisma</strong></span><br>
+              <img height="32px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prisma.svg">
              </td>
           </tr>
       </tbody>
