@@ -6,9 +6,13 @@
   <li>Desenvolvedor Web Full Stack.</li>
 </ul>
 
-- 🌱 Atualmente estudo com foco em **Python**.
-
 <br>
+
+<p>
+  <a href="https://www.linkedin.com/in/davidlcunha/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=20F700&width=550&lines=Olá,+me+chamo+David+e+sou+Desenvolvedor+Web+Full+Stack!;Bem+vindo!+Fique+a+vontade+para+me+contatar!" alt="Typing SVG">
+  </a>
+</p>
 
  <a href="mailto:contatodavidcunha@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
