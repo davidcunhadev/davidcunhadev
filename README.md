@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0078d4&text=>%20Hey%20there,%20Welcome!&textBg=false&section=header&reversal=false&fontColor=fff&animation=twinkling&descAlignY=50&descAlign=50)
-![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=fff&width=550&lines=David+Cunha;FullStack+Developer;Feel+free+to+contact+me!;)
+![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&size=30&duration=3000&pause=1000&color=fff&width=550&lines=David+Cunha;FullStack+Developer;Feel+free+to+contact+me!;)
 
 ## 📫 Contact me!
  <a href="mailto:contatodavidcunha@hotmail.com">
