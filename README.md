@@ -14,7 +14,7 @@
 Hey, I'm David Cunha! I've been passionate about technology since childhood, and I'm continuously driven to expand my skills and embrace new challenges. With a background in fullstack web development and a keen interest in emerging technologies, I am always on the lookout for innovative opportunities to grow both professionally and personally, aiming to make a meaningful impact through my work.
 
 - 🌍 Location: Guabiruba, Santa Catarina, Brazil.
-- 🎓 Education: Bachelor's Degree in Computer Science at Regional University of Blumenau.
+- 🎓 Education: Bachelor's Degree in Computer Science at University of Blumenau - (FURB).
 - 🎓 Education: FullStack Web Development Course at Trybe - [Certificate](https://www.credential.net/9237181b-16cb-4d1d-bd74-4ad3f19f3e97#gs.cremfe)
 
 ## 📚 Stack
